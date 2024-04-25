@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Email-Automation
+Version: 0.0.0
+Summary: A small python package for email automation
+Home-page: https://github.com/Venura-94/dzn-invoice-reminder
+Author: Venura-94
+Author-email: marketing.dozen@gmail.com
+Project-URL: Bug Tracker, https://github.com/Venura-94/dzn-invoice-reminder/issues
+
+# dzn-invoice-reminder
+Automated email-based invoice reminder

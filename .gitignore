@@ -1,0 +1,4 @@
+.env
+__pycache__
+.pyc
+gsheet_api_key.json

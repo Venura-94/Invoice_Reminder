@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/Email_Automation.egg-info/PKG-INFO
+src/Email_Automation.egg-info/SOURCES.txt
+src/Email_Automation.egg-info/dependency_links.txt
+src/Email_Automation.egg-info/top_level.txt
+src/configuration/__init__.py
+src/configuration/config.py
+src/connector/__init__.py
+src/connector/data_connector.py
+src/templates/__init__.py
+src/templates/email_template.py
