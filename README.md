@@ -6,3 +6,7 @@ Automated email-based invoice reminder
 Dockerization
 
 - docker run -d --name my_app_container email_automation_image
+
+Database Update
+
+- Update Pd dataframe to SQL server
